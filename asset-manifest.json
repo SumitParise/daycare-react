@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daycare-react/static/css/main.d4afd6ea.css",
+    "main.js": "/daycare-react/static/js/main.6028cb1d.js",
+    "index.html": "/daycare-react/index.html",
+    "main.d4afd6ea.css.map": "/daycare-react/static/css/main.d4afd6ea.css.map",
+    "main.6028cb1d.js.map": "/daycare-react/static/js/main.6028cb1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4afd6ea.css",
+    "static/js/main.6028cb1d.js"
+  ]
+}
