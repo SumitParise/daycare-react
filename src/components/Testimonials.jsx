@@ -12,7 +12,7 @@ const Testimonials = () => {
           <Fade left>
             <Card style={{height:'30vh'}}>
               <Card.Body>
-              <img className='parent-img' src={process.env.PUBLIC_URL + '/parent2.jpeg'} alt='parent1'  />
+              <img className='parent-img' src='/parent2.jpeg' alt='parent1'  />
                 <Card.Text>
                   "DayCare has been a blessing for our family. Our child loves it here and the staff are amazing."
                 </Card.Text>
