@@ -12,7 +12,7 @@ const Testimonials = () => {
           <Fade left>
             <Card style={{height:'30vh'}}>
               <Card.Body>
-              <img className='parent-img' src={process.env.PUBLIC_URL + 'parent2.jpeg'} alt='parent1'  />
+              <img className='parent-img' src={process.env.PUBLIC_URL + '/parent2.jpeg'} alt='parent1'  />
                 <Card.Text>
                   "DayCare has been a blessing for our family. Our child loves it here and the staff are amazing."
                 </Card.Text>
@@ -27,7 +27,7 @@ const Testimonials = () => {
           <Fade bottom>
             <Card>
               <Card.Body>
-              <img className='parent-img' src={process.env.PUBLIC_URL + 'parent3.jpeg'} alt='parent1'  />
+              <img className='parent-img' src={process.env.PUBLIC_URL + '/parent2.jpeg'} alt='parent2'  />
                 <Card.Text>
                   "The best daycare we have ever experienced. Highly recommend to all parents."
                 </Card.Text>
@@ -42,7 +42,7 @@ const Testimonials = () => {
           <Fade right>
             <Card>
               <Card.Body>
-              <img className='parent-img' src={process.env.PUBLIC_URL + 'parent4.jpeg'} alt='parent1'  />
+              <img className='parent-img' src={process.env.PUBLIC_URL + '/parent4.jpeg'} alt='parent3'  />
                 <Card.Text>
                   "A wonderful place for children to grow and learn. We are very happy with DayCare."
                 </Card.Text>
