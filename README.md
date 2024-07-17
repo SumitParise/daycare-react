@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Demo ---> sumitparise.github.io/daycare-react
+Demo ---> http://www.sumitparise.github.io/daycare-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
